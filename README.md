@@ -1,2 +1,2 @@
 # PythonPrimer
-Introductory Lessons to Python
+Εισαγωγικά μαθήματα στον προγραμματισμό με τη γλώσσα Python.
